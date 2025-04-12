@@ -24,4 +24,4 @@ HDC-Net (Hybrid Dilated Convolutional Network) combines:
 
 ---
 
-
+Trained on https://www.kaggle.com/datasets/andrewmvd/liver-tumor-segmentation
